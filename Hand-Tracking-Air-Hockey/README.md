@@ -1,5 +1,7 @@
 Step 1: Install OpenCV, MediaPipe, Pygame, Tkinter python libraries on your computer
+
 Step 2: Run game.py file to play the game
+
 Step 3: Enjoy!
 
 Controls: 
